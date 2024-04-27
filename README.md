@@ -1,5 +1,6 @@
 <img width="647" alt="image" src="https://github.com/thehummingmoon/healthBot/assets/100294989/16837dea-79c9-481b-82e9-8bc14ba261bb">
 
+
 **1.Project Overview:**<br>
 Create a health bot using genAI that allows users to input health-related queries and generates responses using the OpenAI API.
 **2.Technologies Used:**<br>
